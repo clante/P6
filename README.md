@@ -31,11 +31,11 @@ Un menu tkinter se lancant sur la machine linux ubuntu 22.04 LTS desktop vous pe
 
 #Le menu linux-users contient : Liste utilisateur linux, Création utilisateur linux, Suppression utilisateur linux : => mettre image 02 menu OLinux
 
-![image menu linux](P6/image/02.png)
+![image menu linux]([https://github.com/clante/p6/blob/master/image/02.png)
 
 #Tous ces scripts se lancent via une connexion ssh ou pexpect pxssh : => mettre image histogramme
 
-![image histo](/image/histogramme.png)
+![image histo](https://github.com/clante/p6/blob/master//image/histogramme.png)
 
 #a_menu.py : lance le menu d'automatisation général
 
