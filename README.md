@@ -30,9 +30,7 @@ Un menu tkinter se lancant sur la machine linux ubuntu 22.04 LTS desktop vous pe
 ![image menu general](https://github.com/clante/p6/blob/master/image/01.png)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/clante/p6/blob/master/image/01.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/clante/p6/blob/master/image/01.png">
-  <img alt="" src="https://github.com/clante/p6/blob/master/image/01.png">
+  <source srcset="https://github.com/clante/p6/blob/master/image/01.png">
 </picture>
 
 
