@@ -29,10 +29,7 @@ Un menu tkinter se lancant sur la machine linux ubuntu 22.04 LTS desktop vous pe
 
 ![alt tag](https://github.com/clante/p6/blob/master/image/01.png)
 
-<picture>
-  <source srcset="https://github.com/clante/p6/blob/master/image/01.png">
-</picture>
-
+<img src="https://github.com/clante/p6/blob/master/image/01.png" width="128"/>
 
 #Le menu linux-users contient : Liste utilisateur linux, Création utilisateur linux, Suppression utilisateur linux :
 
