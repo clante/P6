@@ -27,8 +27,7 @@ Un menu tkinter se lancant sur la machine linux ubuntu 22.04 LTS desktop vous pe
 
 #Le menu général, contient 2 sous-menu: Linux et Quitter : => mettre image 01 menu general
 
-https://github.com/clante/p6/blob/master/image/01 menu general.png
-![image menu general](P6/image/01 menu general.png)
+![image menu general](https://github.com/clante/p6/blob/master/image/01 menu general.png)
 
 #Le menu linux-users contient : Liste utilisateur linux, Création utilisateur linux, Suppression utilisateur linux : => mettre image 02 menu OLinux
 
