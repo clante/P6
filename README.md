@@ -12,8 +12,6 @@ Date de création : 27/08/2023
 
 Testé avec : Python 3
 
-Ce programme/scripts sont sous Licence Publique Générale GNU V3
-
 Fonctionnement du script
 
 Mettre les différents script sous un même dossier. Lancez le script a_menu.py en tout premier. Il vous affichera la fenetre de gestion des différents scripts d'automatisation.
@@ -25,6 +23,21 @@ Un menu tkinter se lancant sur la machine linux ubuntu 18.04 desktop vous permet
 . Linux_users
 
 . Quitter
+
+
+#Le menu général, contient 2 sous-menu: Linux et Quitter : => mettre image
+
+
+#Le menu linux-users contient : Liste utilisateur linux, Création utilisateur linux, Suppression utilisateur linux : => mettre image
+
+
+#Tous ces scripts se lancent via une connexion ssh ou pexpect pxssh :
+
+
+
+
+
+
 
 
 Le menu Reseau, contient à ce jour un script Nmap pour deux sous réseau (un reseau linux, un reseau windows)
