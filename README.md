@@ -16,22 +16,23 @@ Fonctionnement du script
 
 Mettre les différents script sous un même dossier. Lancez le script a_menu.py en tout premier. Il vous affichera la fenetre de gestion des différents scripts d'automatisation.
 
-Ces différents scripts ont été écrit pour un réseau constitué d'une machine Linux ubuntu 18.04 desktop gérant deux réseaux en 192.168.0.0/24 (linux) et 192.168.1.0/24 (windows)
+Ces différents scripts ont été écrit pour un réseau constitué d'une machine Linux ubuntu 22.04 LTS desktop gérant le réseau Linux en 10.0.2.14/24
 
-Un menu tkinter se lancant sur la machine linux ubuntu 18.04 desktop vous permet de lancer les différents scripts d'automatisation, il se trouve sur projet6.py. Il contient différents menus :
+Un menu tkinter se lancant sur la machine linux ubuntu 22.04 LTS desktop vous permet de lancer les différents scripts d'automatisation, il se trouve sur a_menu.py. Il contient différents menus :
 
 . Linux_users
 
 . Quitter
 
 
-#Le menu général, contient 2 sous-menu: Linux et Quitter : => mettre image
+#Le menu général, contient 2 sous-menu: Linux et Quitter : => mettre image 01 menu general
 
 
-#Le menu linux-users contient : Liste utilisateur linux, Création utilisateur linux, Suppression utilisateur linux : => mettre image
+#Le menu linux-users contient : Liste utilisateur linux, Création utilisateur linux, Suppression utilisateur linux : => mettre image 02 menu OLinux
 
 
-#Tous ces scripts se lancent via une connexion ssh ou pexpect pxssh :
+#Tous ces scripts se lancent via une connexion ssh ou pexpect pxssh : => mettre image histogramme
+
 
 
 
