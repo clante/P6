@@ -35,7 +35,7 @@ Un menu tkinter se lancant sur la machine linux ubuntu 22.04 LTS desktop vous pe
 
 #Tous ces scripts se lancent via une connexion ssh ou pexpect pxssh : => mettre image histogramme
 
-![image histo](P6/image/histogramme.png)
+![image histo](/image/histogramme.png)
 
 #a_menu.py : lance le menu d'automatisation général
 
