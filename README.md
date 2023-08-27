@@ -27,11 +27,11 @@ Un menu tkinter se lancant sur la machine linux ubuntu 22.04 LTS desktop vous pe
 
 #Le menu général, contient 2 sous-menu: Linux et Quitter : => mettre image 01 menu general
 
-![image menu general](https://github.com/clante/p6/blob/master/image/01 menu general.png)
+![image menu general](https://github.com/clante/p6/blob/master/image/01.png)
 
 #Le menu linux-users contient : Liste utilisateur linux, Création utilisateur linux, Suppression utilisateur linux : => mettre image 02 menu OLinux
 
-![image menu linux](P6/image/02 menu linux.png)
+![image menu linux](P6/image/02.png)
 
 #Tous ces scripts se lancent via une connexion ssh ou pexpect pxssh : => mettre image histogramme
 
