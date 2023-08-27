@@ -22,11 +22,9 @@ Ces différents scripts ont été écrit pour un réseau constitué d'une machin
 
 Un menu tkinter se lancant sur la machine linux ubuntu 18.04 desktop vous permet de lancer les différents scripts d'automatisation, il se trouve sur projet6.py. Il contient différents menus :
 
-. Reseau
-. Windows_users
 . Linux_users
-. Sauvegarde
+
 . Quitter
-. A propos
+
 
 Le menu Reseau, contient à ce jour un script Nmap pour deux sous réseau (un reseau linux, un reseau windows)
