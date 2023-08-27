@@ -37,8 +37,16 @@ Un menu tkinter se lancant sur la machine linux ubuntu 22.04 LTS desktop vous pe
 
 
 
+#a_menu.py : lance le menu d'automatisation général
+
+#lin_crea.py : lance le script de création utilisateur linux
+
+#lin_supp.py : lance le script de supression utilisateur linux
+
+#lin_util.py : récupère la liste des utilisateurs linux
+
+#lin_z_backup.py : sauvegarde d'un utilisateur
+
+#Quitter : quitte le programme d'automatisation des taches administrateur.
 
 
-
-
-Le menu Reseau, contient à ce jour un script Nmap pour deux sous réseau (un reseau linux, un reseau windows)
