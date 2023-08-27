@@ -25,7 +25,7 @@ Un menu tkinter se lancant sur la machine linux ubuntu 22.04 LTS desktop vous pe
 . Quitter
 
 
-#Le menu général, contient 2 sous-menu: Linux et Quitter : => mettre image 01 menu general
+#Le menu général, contient 2 sous-menu: Linux et Quitter : 
 
 ![image menu general](https://github.com/clante/p6/blob/master/image/01.png)
 
@@ -33,15 +33,14 @@ Un menu tkinter se lancant sur la machine linux ubuntu 22.04 LTS desktop vous pe
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/clante/p6/blob/master/image/01.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/clante/p6/blob/master/image/01.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/clante/p6/blob/master/image/01.png">
-
 </picture>
 
 
-#Le menu linux-users contient : Liste utilisateur linux, Création utilisateur linux, Suppression utilisateur linux : => mettre image 02 menu OLinux
+#Le menu linux-users contient : Liste utilisateur linux, Création utilisateur linux, Suppression utilisateur linux :
 
 ![image menu linux](https://github.com/clante/p6/blob/master/image/02linux.png)
 
-#Tous ces scripts se lancent via une connexion ssh ou pexpect pxssh : => mettre image histogramme
+#Tous ces scripts se lancent via une connexion ssh ou pexpect pxssh : 
 
 ![image histo](https://github.com/clante/p6/blob/master//image/histograme.png)
 
