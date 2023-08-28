@@ -31,7 +31,7 @@ Un menu tkinter se lancant sur la machine linux ubuntu 22.04 LTS desktop vous pe
 
 #Le menu linux-users contient : Liste utilisateur linux, Création utilisateur linux, Suppression utilisateur linux :
 
-#![ScreenShot](https://github.com/clante/p6/blob/main/image/02.png)
+#![ScreenShot](https://github.com/clante/p6/blob/main/image/02linux.png)
 
 #Tous ces scripts se lancent via une connexion ssh ou pexpect pxssh : 
 
