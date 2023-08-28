@@ -29,14 +29,13 @@ Un menu tkinter se lancant sur la machine linux ubuntu 22.04 LTS desktop vous pe
 
 #![ScreenShot](https://github.com/clante/p6/blob/main/image/01.png)
 
-
 #Le menu linux-users contient : Liste utilisateur linux, Création utilisateur linux, Suppression utilisateur linux :
 
-<img src='https://github.com/clante/p6/blob/master/image/02.png' height="266" width="403"/>
+#![ScreenShot](https://github.com/clante/p6/blob/main/image/02.png)
 
 #Tous ces scripts se lancent via une connexion ssh ou pexpect pxssh : 
 
-<img src='https://github.com/clante/p6/blob/master/image/histograme.png' height="648" width="1152"/>
+#![ScreenShot](https://github.com/clante/p6/blob/main/image/histograme.png)
 
 #a_menu.py : lance le menu d'automatisation général
 
