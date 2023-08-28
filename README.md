@@ -27,7 +27,7 @@ Un menu tkinter se lancant sur la machine linux ubuntu 22.04 LTS desktop vous pe
 
 #Le menu général, contient 2 sous-menu: Linux et Quitter : 
 
-![menu](https://github.com/clante/p6/blob/master/image/01.png)
+![alt tag](https://github.com/clante/p6/blob/master/image/01.png)
 
 <img src='https://github.com/clante/p6/blob/master/image/01.png' height="202" width="577"/>
 
