@@ -4,6 +4,7 @@
 from pexpect import pxssh
 import tkinter as tk
 from tkinter import scrolledtext
+from time import sleep
 
 # Informations création du compte
 nouvel_utilisateur = ''
@@ -30,16 +31,17 @@ def creer_compte_utilisateur():
         username = 'ac' # attribution variable username
         password = 'Pza123RR' # attribution variable password
 
-        addnu = 'sudo useradd -p ' + str(nouveau_mot_de_passe) + str(' -m ') + str(nouvel_utilisateur)
-        mdpnu = 'sudo chage -d0 ' + str(nouvel_utilisateur)
+        addnu = 'useradd -p ' + str(nouveau_mot_de_passe) + str(' -m ') + str(nouvel_utilisateur)
+        mdpnu = 'passwd -e ' + str(nouvel_utilisateur)
         
         # Commandes pour créer l'utilisateur
         s.login(hostname, username, password)
+        s.sendline('sudo su')
+        s.sendline(password)
         s.sendline(addnu) # ajout de l'utilisateur
-        s.sendline(password)
         s.sendline(mdpnu) # change mdp 1ière connection
-        s.sendline(password)
-   
+        s.sendline('exit') # 
+ 
         # Déconnexion
         s.logout()
 
@@ -64,5 +66,3 @@ create_button = tk.Button(window, text='Créer le compte utilisateur', command=c
 create_button.pack(pady=10)
 
 window.mainloop()
-
-#s.sendline('sudo passwd -e ' + str(nouvel_utilisateur)) # change mdp 1ière connection
